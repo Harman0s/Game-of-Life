@@ -1,4 +1,4 @@
-# Game-of-Life-C-
+# Game of Life (C)
 
 This project was written in C to simulate the Game of Life famously created by mathematician John Horton Conway. The Game Of Life is played on an infinite two-dimensional orthogonal grid of square cells, where each cell is either live or dead. Every cell interacts with its eight neighbors that are either horizontally, vertically or diagonally adjacent. At each step in time, any of the following transitions occur:
 
